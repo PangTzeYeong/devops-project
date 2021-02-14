@@ -19,4 +19,6 @@ docker kill $(docker ps -q)
 Optional: Publish to Dockerhub
 Shall sign up at https://hub.docker.com/ and get a little more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH !
 
+![River_Hongbao_Huatah](huatah.jpg)
+
 curl -i http://localhost:8080/fx
