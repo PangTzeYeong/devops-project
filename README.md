@@ -18,8 +18,8 @@
 Set up GitHub Actions workflow that triggers telegram notification whenever there is a Push/Pull request
 
 https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
-<p> => telegram username @gh_notify8888_bot </p>
-This unique chat id is inserted as token under 'Settings=>Secrets', which tells the telegram bot to notify only me when there is a trigger
+<p> => telegram username @gh_notify8888_bot
+This unique chat id is inserted as token under 'Settings=>Secrets', which tells the telegram bot to notify only me when there is a trigger </p>
 
 ![Github_telegram_bot](tg_notifier.jpg)
 
@@ -47,10 +47,10 @@ curl -i http://localhost:8080/fx
 
 <h2 align="left"> Optional: what's next </h2>
 
-Improve Telegram bot
+**Improve Telegram bot**
 <p> So that the bot can notify targeted people when there are updates to specific parts of the repository </p>
 
-Publish to Dockerhub
+**Publish to Dockerhub**
 <p> Shall sign up at https://hub.docker.com/ and get more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH ! </p>
 
 ![River_Hongbao_Huatah](huatah.jpg)
