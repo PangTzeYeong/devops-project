@@ -1,4 +1,4 @@
-**(Forked Repo)** # Currency Exchange API – NodeJS
+<h1 align="center"> **(Forked Repo)** # Currency Exchange API – NodeJS </h1>
 
 Set up GitHub Actions workflow that triggers telegram notification whenever there is a Push/Pull request
 
@@ -21,6 +21,8 @@ If there is an error message, you may have another (the previous?) container run
 docker kill $(docker ps -q)
 
 curl -i http://localhost:8080/fx
+
+https://img.shields.io/github/forks/PangTzeYeong/sgus-devops-project
 
 Optional: Publish to Dockerhub
 Shall sign up at https://hub.docker.com/ and get a little more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH !
