@@ -24,7 +24,7 @@ Set up GitHub Actions workflow that triggers telegram notification whenever ther
 * https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
 <p> telegram username @gh_notify8888_bot => Note: a unique access ChatToken is inserted in 'Settings=>Secrets', which tells the telegram bot to notify only my particular chat_id when there is a trigger </p>
 
-<img src="tg_notifier.jpg" width="600" height="1200" />
+<img src="tg_notifier.jpg" width="400" height="800" />
 
 ## Steps in Google Cloud Shell with Editor
 
