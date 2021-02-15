@@ -33,7 +33,7 @@ https://shell.cloud.google.com/
 ***1) Get Source***
 <p> git clone https://github.com/PangTzeYeong/devops-project </p>
 
-***2) Make changes***
+***2) Make changes (optional)***
 <p> modify app.js in directory </p>
 
 ***3) Build Container***
@@ -42,7 +42,7 @@ https://shell.cloud.google.com/
 ***4) Run Container***
 <p> docker run -d -p 8080:8080 myapi </p>
 
-If there is an error message, there may be another (the previous?) container running on the same port. In this case use this command to kill all running containers:
+If there is an error message, there may be another container running on the same port. In this case use following command to kill all running containers:
 
 <p> docker kill $(docker ps -q) </p>
 
