@@ -1,5 +1,20 @@
 <h1 align="center"> **(Forked Repo)** # Currency Exchange API – NodeJS </h1>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
+
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
+
+<img src="https://img.shields.io/github/stars/silent-lad/Vue2BaremetricsCalendar.svg?style=flat">
+
+<img src="https://img.shields.io/github/languages/top/silent-lad/Vue2BaremetricsCalendar.svg">
+
+<img src="https://img.shields.io/github/issues/silent-lad/Vue2BaremetricsCalendar.svg">
+
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+</p>
+
 Set up GitHub Actions workflow that triggers telegram notification whenever there is a Push/Pull request
 
 https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/ => telegram username @gh_notify8888_bot
