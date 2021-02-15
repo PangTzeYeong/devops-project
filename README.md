@@ -13,35 +13,35 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 </p>
 
-<p align="center">
+<h2 align="center"> Adding a Github Telegram notifier </h2>
 
 Set up GitHub Actions workflow that triggers telegram notification whenever there is a Push/Pull request
 
-https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/ => telegram username @gh_notify8888_bot
+https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/ <p> => telegram username @gh_notify8888_bot </p>
 
-<p align="center">
+<h2 align="center"> Steps in Google shell editor </h2>
 
 1: Get Source
-git clone https://github.com/PangTzeYeong/sgus-devops-project
+<p> git clone https://github.com/PangTzeYeong/sgus-devops-project </p>
 
 2: Make changes
-modify app.js in directory
+<p> modify app.js in directory </p>
 
 3: Build Container
-docker build . -t myapi
+<p> docker build . -t myapi </p>
 
 4: Run Container
-docker run -d -p 8080:8080 myapi
+<p> docker run -d -p 8080:8080 myapi </p>
 
-If there is an error message, you may have another (the previous?) container running on the same port. In this case use this command to kill all running containers:
+If there is an error message, there may have another (the previous?) container running on the same port. In this case use this command to kill all running containers:
 
-docker kill $(docker ps -q)
+<p> docker kill $(docker ps -q) </p>
 
 curl -i http://localhost:8080/fx
 
-<p align="center">
+<h2 align="center"> Optional: what's next </h2>
 
-Optional: Publish to Dockerhub
-Shall sign up at https://hub.docker.com/ and get a little more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH !
+Publish to Dockerhub
+<p> Shall sign up at https://hub.docker.com/ and get a little more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH ! </p>
 
 ![River_Hongbao_Huatah](huatah.jpg)
