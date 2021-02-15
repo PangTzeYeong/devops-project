@@ -31,7 +31,7 @@ https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
 https://shell.cloud.google.com/
 
 ***1) Get Source***
-<p> git clone https://github.com/PangTzeYeong/sgus-devops-project </p>
+<p> git clone https://github.com/PangTzeYeong/devops-project </p>
 
 ***2) Make changes***
 <p> modify app.js in directory </p>
