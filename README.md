@@ -19,7 +19,7 @@ Set up GitHub Actions workflow that triggers telegram notification whenever ther
 
 https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/ <p> => telegram username @gh_notify8888_bot </p>
 
-<h2 align="left"> Steps in Google shell editor </h2>
+<h2 align="left"> Steps in Google Cloud Shell with Editor </h2>
 
 **1) Get Source**
 <p> git clone https://github.com/PangTzeYeong/sgus-devops-project </p>
