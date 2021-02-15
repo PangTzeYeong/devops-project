@@ -59,4 +59,4 @@ Screenshot of the output for the command above
 ***Publish to Dockerhub***
 <p> Shall sign up at https://hub.docker.com/ and get more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH ! </p>
 
-![River_Hongbao_Huatah](huatah.jpg)
+<img src="huatah.jpg" width="400" height="800" />
