@@ -13,20 +13,20 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 </p>
 
-<h2 align="left"> Adding a Github Telegram notifier </h2>
+## Adding a Github Telegram notifier
 
 Set up GitHub Actions workflow that triggers telegram notification whenever there is a Push/Pull request
 
-GitHub actions provides a workflow for user to automate certain process when certain actions are triggered
+* GitHub actions provides a workflow for user to automate certain process when certain actions are triggered
 
-under .github/workflows/ we can find ***tg-notify.yml*** created to enable such notifications in telegram
+* In .github/workflows/ we can find ***tg-notify.yml*** created to enable such telegram notifications
 
-https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
+* https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
 <p> telegram username @gh_notify8888_bot => Note: a unique access ChatToken is inserted in 'Settings=>Secrets', which tells the telegram bot to notify only my particular chat_id when there is a trigger </p>
 
 ![Github_telegram_bot](tg_notifier.jpg)
 
-<h2 align="left"> Steps in Google Cloud Shell with Editor </h2>
+## Steps in Google Cloud Shell with Editor
 
 https://shell.cloud.google.com/
 
@@ -51,7 +51,7 @@ curl -i http://localhost:8080/fx
 Screenshot of the output for the command above
 ![nodejs_output](nodejs_output.png)
 
-<h2 align="left"> Optional: what's next </h2>
+## Optional: what's next
 
 ***Improve Telegram bot***
 <p> So that the bot can notify multiple people when there are updates to specific parts of the repository </p>
