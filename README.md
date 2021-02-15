@@ -17,7 +17,8 @@
 
 Set up GitHub Actions workflow that triggers telegram notification whenever there is a Push/Pull request
 
-https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/ <p> => telegram username @gh_notify8888_bot </p>
+https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
+<p> => telegram username @gh_notify8888_bot </p>
 
 <h2 align="left"> Steps in Google Cloud Shell with Editor </h2>
 
@@ -44,6 +45,6 @@ curl -i http://localhost:8080/fx
 <h2 align="left"> Optional: what's next </h2>
 
 Publish to Dockerhub
-<p> Shall sign up at https://hub.docker.com/ and get a little more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH ! </p>
+<p> Shall sign up at https://hub.docker.com/ and get more familiar with it.. After 15days of Chinese New Year celebrations =) HUAT AH ! </p>
 
 ![River_Hongbao_Huatah](huatah.jpg)
