@@ -21,6 +21,8 @@ https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/ <p> => te
 
 <h2 align="left"> Steps in Google Cloud Shell with Editor </h2>
 
+https://shell.cloud.google.com/
+
 **1) Get Source**
 <p> git clone https://github.com/PangTzeYeong/sgus-devops-project </p>
 
